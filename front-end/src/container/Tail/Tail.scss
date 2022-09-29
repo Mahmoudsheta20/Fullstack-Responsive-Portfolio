@@ -1,0 +1,15 @@
+.app__tail {
+    flex: 1;
+    width: 100%;
+    flex-direction: column;
+    height: 50px;
+    padding: 7rem 2rem;
+    h2 {
+        -webkit-text-fill-color: transparent;
+        background: -webkit-linear-gradient(63deg, #313baceb, #9eadc3c2);
+        -webkit-background-clip: text;
+        font-size: 60px;
+        padding-bottom: 29px;
+        text-transform: uppercase;
+    }
+}
